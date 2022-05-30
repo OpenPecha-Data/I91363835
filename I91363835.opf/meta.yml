@@ -1,0 +1,26 @@
+id: I91363835
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:52:54.201749'
+last_modified: '2022-05-30T22:52:54.201755'
+parser: null
+source_metadata:
+  title: Pema Tekchok Loden Series
+  language: bo
+  description: 'Texts by and about Pema Tekchok Loden (padma theg mchog blo ldan,
+    1879–1955) alias Khenpo Lhagyal (mkhan po lha rgyal) or Abu Lhagang (a bu lha
+    sgang):'
+  volume:
+    f25FF:
+      title: Biography of Dzogchen Khenchen Abu Lhagang
+      base_file: f25FF.txt
+      order: 1
+      parent: Biographies
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
